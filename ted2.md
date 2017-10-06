@@ -1,9 +1,14 @@
-Technische Kommunikation und Content-Strategie
-==============================================
+---
+author: Heinz Wittenbrink
+title: Technische Kommunikation und Content-Strategie
+date: 8. Oktober 2017
+---
 
-{{TOC}}
 
-# Die technische Dokumentation braucht wie alle anderen Organisationsinhalte eine Content-Strategie.  
+
+
+# Technische Dokumentation braucht Content-Strategie.  
+
 
 ## Technische Kommunikation und Content-Strategie: Wie? vs. Warum?
 
@@ -14,7 +19,6 @@ Technische Kommunikation und Content-Strategie
 
 - Persuasive vs. enabling
  
- ---
 
 ## Frontend: Die Plattformen und Kanäle für alle Inhalte gleichen sich an
 
@@ -23,7 +27,6 @@ Technische Kommunikation und Content-Strategie
 - Social Media und Empfehlungssysteme
 - User Experience als bestimmender Faktor für Markenbeziehung
 
----
 
 ## Technische Inhalte als Teil der User Journey
 
@@ -31,7 +34,6 @@ Technische Kommunikation und Content-Strategie
 - Dokumentation wird entscheidend für Verkauf
 - Marken werden zu 24/7 Service-Anbietern
 
----
 
 ## Vom sendergesteuerten zum nutzergesteuerten Inhalt
 
@@ -40,7 +42,7 @@ Technische Kommunikation und Content-Strategie
 - Vom Inhalt als Mangelware zum Filter
 - Vom isolierten zum vernetzten User
 
---- 
+
 
 ## Backend: Produktion und Management aller Inhalte sind digitalisiert
 
@@ -49,7 +51,6 @@ Technische Kommunikation und Content-Strategie
 - Ähnliche Redaktionelle Tools und Arbeitsweisen
 - Ähnliche Monitoring und Analyseverfahren (Big Data)
 
----
 
 ## Content-Strategie als Lifecycle-Management für Inhalte
 
@@ -57,7 +58,6 @@ Technische Kommunikation und Content-Strategie
 - Inhalte als kostspielige Assets
 - Inhalte als verbindender Faktor in wissens- und serviceorientierten Organisationen
 
----
 
 ## Synergien zwischen technischer Kommunikation und anderen Formen der Organisationskommunikation
 
@@ -65,18 +65,16 @@ Technische Kommunikation und Content-Strategie
 - Service-Content als Marketing-Instrument
 - Wissensbasierte Produkte und Produktionsverfahren
 
----
     
 #  Substanz: Dokumentation als Teil des Inhaltsportolios einer Organisation
 
---- 
+
 
 ## Technische Dokumentation und value proposition
 
 - Dokumentation muss zum Nutzen der Angebote einer Organisation befähigen
 - Dokumentation soll die Werte einer Organisation kommunizieren
 
---- 
 
 ## Technische Dokumentation und Navigation
 
@@ -84,7 +82,7 @@ Technische Kommunikation und Content-Strategie
 - Verlinkung mit den übrigen Angeboten
 - Laufende Optimierung durch Analyse des Nutzerverhaltens
 
---- 
+
 
 ## Konsistenz
 
@@ -92,9 +90,9 @@ Technische Kommunikation und Content-Strategie
 - Einheitliche Terminologie (Acrolinx)
 - Einheitliche Styleguides (Voice and Tone)
 
----
 
-#   Struktur: Intelligent Content
+
+# Struktur: Intelligent Content
 
 ## Trennung von Inhalt und Präsentation
 
@@ -102,23 +100,17 @@ Technische Kommunikation und Content-Strategie
 - Vermeidung von Redundanzen/Single Source-Prinzip
 - Separation of Concerns: Inhaltsbetreuung durch Inhaltsspezialisten
 
----
-
 ## Modularisierung
 
 - Flexibilität durch Rekombinierbarkeit von Inhalten
 - Flexibilität durch Lokalisierbarkeit von Inhalten
 - Anpassung an unterschiedliche Plattformen auf der Mikroebene
 
---- 
-
 ## Strukturierung
 
 - Nur strukturierte Inhalte sind maschinell verarbeitbar
 - Nur strukturierte Inhalte sind von Layout-Informationen unabhängig
 - Nur strukturierte Inhalte sind miteinander kombinierbar
-
----
 
 ## Metadaten
 
@@ -135,15 +127,13 @@ Technische Kommunikation und Content-Strategie
 - Nutzer interessieren sich nicht für die Arbeitsteilung in Organisationen
 - Analyse von User-Journeys sorgt für Verständnis aller Bedürfnisse nach Inhalten
 
----
-
 ## Gemeinsame Auswertung von Daten
 
 - Jede Nutzung von digitalen Inhalten generiert Daten
 - Daten sind für unterschiedliche Stakeholder relevant
 - Offene interne Kommunikation der Daten (gemeinsamer Datenpool) stellt unterschiedliche Auswertungen sicher
 
----
+
 
 ## Synergien nutzen
 
@@ -151,7 +141,7 @@ Technische Kommunikation und Content-Strategie
 - Technische Redakteurs als Spezialisten für Userbedürfnisse
 - Dokumentation als Ausgangspunkt für Produktentwicklung und Marketing
 
----
+
 
 ## Agile Entwicklung von Dokumentation und Produkten
 
@@ -160,7 +150,7 @@ Technische Kommunikation und Content-Strategie
 - Innovationen bei der Entwicklung sind nur bedingt planbar
 - Beispiele für agile Methoden: User Stories und Pair Writing
 
----
+
 
 ## Kollaboration Entwicklung von technischen und anderen Inhalten
 
@@ -168,12 +158,12 @@ Technische Kommunikation und Content-Strategie
 - Gemeinsame Projekte erzeugen Verständnis
 - Integration weitere Stakeholder
 
----
 
-#   Governance: Gemeinsame Steuerung aller Inhalte
 
-- Nur gemeinsame Verantwortung sicher optimale strategische Steuerung
-- Gemeinsame Standards sichern die Qualität und reduzieren Reibungsverluste
-- Gemeinsame Policies reduzieren Risiken
+# Governance: Gemeinsame Steuerung aller Inhalte
 
----
+
+## Nur gemeinsame Verantwortung sicher optimale strategische Steuerung
+## Gemeinsame Standards sichern die Qualität und reduzieren Reibungsverluste
+## Gemeinsame Policies reduzieren Risiken
+
