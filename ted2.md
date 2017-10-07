@@ -1,26 +1,46 @@
 ---
 author: Heinz Wittenbrink
 title: Technische Kommunikation und Content-Strategie
-date: 8. Oktober 2017
+institute: Master-Lehrgang Technische Dokumentation
+date: 2017-10-08
 ---
 
 
 
 
-# Technische Dokumentation braucht Content-Strategie.  
+# Technische Dokumentation und Content-Strategie. 
 
 
-## Technische Kommunikation und Content-Strategie: Wie? vs. Warum?
+## Wie vs. Warum
 
 - Zwei Content-Welten
-
-> big difference is that tech comm is about the "how", while content marketing is about the "why". [Better together](http://www.tcworld.info/e-magazine/content-strategies/article/better-together-technical-writers-and-content-marketers/)
-> This "how" versus "why" is the essence of the gap, and it must be understood by both tech comm and marketing teams in order to achieve genuine collaboration. [Better together](http://www.tcworld.info/e-magazine/content-strategies/article/better-together-technical-writers-and-content-marketers/)
-
 - Persuasive vs. enabling
+
+---
+
+> big difference is that tech comm is about the "how", while content marketing is about the "why". 
+
+> This "how" versus "why" is the essence of the gap, and it must be understood by both tech comm and marketing teams in order to achieve genuine collaboration. 
+
+[Better together: technical writers and content marketers](http://www.tcworld.info/e-magazine/content-strategies/article/better-together-technical-writers-and-content-marketers/)
+
+---
+	
+> Content strategy and technical communication are different facets of the same problem. Content strategy means that you use information to achieve business goals. Technical communication is information that enables people to use a product or service.
+
+([The Intersection of Content Strategy and TechComm](http://blogs.adobe.com/techcomm/2013/07/the-intersection-of-content-strategy-and-tech-comm.html))
+
+---
+
+> After you establish a content strategy for a particular business, technical communicators (and other writers) are needed to actually execute on that strategy.
+
+> content strategy requires a more holistic view of information and tech comm requires a more tactical perspective.
+
+([The Intersection of Content Strategy and TechComm](http://blogs.adobe.com/techcomm/2013/07/the-intersection-of-content-strategy-and-tech-comm.html))
+
  
 
-## Frontend: Die Plattformen und Kanäle für alle Inhalte gleichen sich an
+## Frontend: Plattformen und Kanäle für alle Inhalte gleichen sich an
 
 - Web und mobile Apps als primärer Zugang
 - Entwicklung der Suche
@@ -65,15 +85,19 @@ date: 8. Oktober 2017
 - Service-Content als Marketing-Instrument
 - Wissensbasierte Produkte und Produktionsverfahren
 
+---
+![Braintraffic: The Content Strategy Quad](https://daks2k3a4ib2z.cloudfront.net/5964efc16de5575bb5dfcfad/59973aade4afd50001551143_brain-traffic-quad.png){ width=50% }
+
+([Brain Traffic Lands the Quad!](http://braintraffic.com/blog/brain-traffic-lands-the-quad "Brain Traffic Lands the Quad!"))
     
-#  Substanz: Dokumentation als Teil des Inhaltsportolios einer Organisation
+#  Substanz: Dokumentation als Teil des Inhaltsportolios 
 
 
 
 ## Technische Dokumentation und value proposition
 
-- Dokumentation muss zum Nutzen der Angebote einer Organisation befähigen
-- Dokumentation soll die Werte einer Organisation kommunizieren
+- Dokumentation befähigt zum Nutzen der Angebote einer Organisation 
+- Dokumentation kommuniziert Werte einer Organisation
 
 
 ## Technische Dokumentation und Navigation
@@ -86,7 +110,7 @@ date: 8. Oktober 2017
 
 ## Konsistenz
 
-- Laufende gemeinsame Aktualisierung von technischen und Marketinginformationen
+- Gemeinsame Aktualisierung von technischen und Marketinginformationen
 - Einheitliche Terminologie (Acrolinx)
 - Einheitliche Styleguides (Voice and Tone)
 
