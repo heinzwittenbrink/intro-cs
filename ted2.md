@@ -16,6 +16,8 @@ date: 2017-10-08
 - Zwei Content-Welten
 - Persuasive vs. enabling
 
+Rahel Bailie, Noz Urbina [Content Strategy: Connecting the dots between business, brand, and benefits](http://xmlpress.net/publications/content-strategy/)
+
 ---
 
 > big difference is that tech comm is about the "how", while content marketing is about the "why". 
