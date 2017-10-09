@@ -1,2 +1,2 @@
 # intro-cs
-Content strategy - an introductory presentation
+Content strategy and technical communication - an introductory presentation
