@@ -16,7 +16,7 @@ date: 2017-10-08
 - Zwei Content-Welten
 - Persuasive vs. enabling
 
-Rahel Bailie, Noz Urbina [Content Strategy: Connecting the dots between business, brand, and benefits](http://xmlpress.net/publications/content-strategy/)
+Rahel Bailie, Noz Urbina: [Content Strategy: Connecting the dots between business, brand, and benefits](http://xmlpress.net/publications/content-strategy/)
 
 ---
 
